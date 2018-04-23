@@ -3,13 +3,13 @@
 ***Note:*** This document is best viewed by clicking on this [github.io link](https://sblack4.github.io/learning-library/articles/solution-engineering-natd/)
 
 ## The Role 
-Solutions Engineering is more BREADTH than depth. You take the products that is already been built - extend it with your coding skills and integrate it with other products thereby building a “SOLUTION”. **This is primarily a technical job** with client interactions (60-70% technical, 40-30% communication/business).
+Solution Engineering and Cloud Customer Success is more BREADTH than depth. You take products that have already been built - leverage those along with your coding or solution architecture skills and integrate them with other products thereby building a “SOLUTION”. **This is a role within Oracle's Solution Engineering organization and requires technical skills**, in addition to soft skills that are critical to building trusted customer relationships.
 
 For a successful solution engineer - you need the following traits
-* Solution Engineering is more BREADTH than depth. You take the products that is already been built - extend it with your coding skills and integrate it with other products thereby building a “SOLUTION”. This is primarily a technical job with client interactions (60-70% technical, 40-30% communication/business).
-* Good communication skills - you don’t build solutions for yourself -you build it for customers and REAL world!
-* Desire to push yourself to understand a little of lot of things (you may touch upon Machine Learning, Analytics and at the same time core database or file parsing).  This is probably the most critical -do you have the drive and motivation to learn a lot!!
-* Working under tight deadlines - our projects can be 2-6-week bursts.
+* Solution Engineering is more BREADTH than depth. You take the products that have already been built - extend it with your coding skills and integrate it with other products thereby building a “SOLUTION”. This is primarily a technical job with client interactions (60-70% technical, 40-30% communication/business).
+* Good communication skills - you don’t build solutions for yourself - you build it for customers and REAL world!
+* Desire to push yourself to understand a little of a lot of things (you may touch upon Machine Learning, Analytics and at the same time core database or file parsing).  This is probably the most critical -do you have the drive and motivation to learn a lot!!
+* Working under tight deadlines - our enterprise customers demand quick responses and problem resolution.
 
 ## Interview Schedule 
 
@@ -21,7 +21,7 @@ The face to face interview process consists of a technical interview outlined be
 | --- | --- | --- | 
 | Overview | 3 - 5 | Brief overview of yourself, covering your capabilities and technical and relevant prior experience  |
 | Journey to Cloud Presentation | 15 | Brief overview of Oracle's cloud platform to a potential customer that is interested in making the journey to the cloud |
-| Touch the Cloud - Oracle Cloud Research and Demo | 15 | Brief demo on Oracle Cloud Product(s) of interest and relevence (Trial Account) |  
+| Touch the Cloud - Oracle Cloud Research and Demo | 15 | Brief demo on Oracle Cloud Product(s) of interest and relevance (Trial Account) |  
 | Technical Q & A Interview | 10 | Technical Question and Answer Interview |
 
 ## Overview 
@@ -81,7 +81,7 @@ If you are not able to secure an Oracle Trial account please notify your recruit
 
 
 ### **Option 2: Recent Project Presentation**
-During this presentation, we would like you to provide an overview (or demonstration) of a technical project on which you have recently worked. Provide examples of the technology, solutions, and methodologies you used during this project. Feel free to use the whiteboard or laptop available in the interview room. If you use powerpoint, please keep your presentation to approximately 5 slides. ***Please Note: If you are going to use Oracle Cloud Trial Account and demonstrate Option 1 you DO NOT need to present your project.*** ***Also Note: we do expect to see techical content! :)***
+During this presentation, we would like you to provide an overview (or demonstration) of a technical project on which you have recently worked. Provide examples of the technology, solutions, and methodologies you used during this project. Feel free to use the whiteboard or laptop available in the interview room. If you use powerpoint, please keep your presentation to approximately 5 slides. ***Please Note: If you are going to use Oracle Cloud Trial Account and demonstrate Option 1 you DO NOT need to present your project.*** ***Also Note: we do expect to see technical content! :)***
 
 
 ### **Expectation** 
@@ -105,7 +105,7 @@ During this section of the interview we will ask technical questions based on yo
 ## Visual Aids
 
 - The interview room will be furnished with a whiteboard and laptop that you can use to present your **Journey to Cloud** and **Touch the Cloud** Presentations.
-- Oracle Supplied Laptop: We will have a laptop and prejector available for your use. The laptop will have connectivity to the internet, and you can bring a USB drive if you desire to load a presentation to the laptop.
+- Oracle Supplied Laptop: We will have a laptop and projector available for your use. The laptop will have connectivity to the internet, and you can bring a USB drive if you desire to load a presentation to the laptop.
 
 # Oracle Trial Account
 
