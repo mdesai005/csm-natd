@@ -3,7 +3,7 @@
 ***Note:*** This document is best viewed by clicking on this [github.io link](https://sblack4.github.io/learning-library/articles/solution-engineering-natd/)
 
 ## The Role 
-Solution Engineering and Cloud Customer Success is more BREADTH than depth. You take products that have already been built - leverage those along with your coding or solution architecture skills and integrate them with other products thereby building a “SOLUTION”. **This is a role within Oracle's Solution Engineering organization and requires technical skills**, in addition to soft skills that are critical to building trusted customer relationships.
+Solution Engineering is more BREADTH than depth. You take products that have already been built - leverage those along with your coding or solution architecture skills and integrate them with other products thereby building a “SOLUTION”. **This is a role within Oracle's Solution Engineering organization and requires technical skills**, in addition to soft skills that are critical to building trusted customer relationships.
 
 For a successful solution engineer - you need the following traits
 * Solution Engineering is more BREADTH than depth. You take the products that have already been built - extend it with your coding skills and integrate it with other products thereby building a “SOLUTION”. This is primarily a technical job with client interactions (60-70% technical, 40-30% communication/business).
